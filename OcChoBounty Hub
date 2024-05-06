@@ -1,5 +1,5 @@
 
-local HubName = "OcCho Hub (Auto bounty/)"
+local HubName = "OcCho Hub (Auto bounty)"
 local LogoImage = "https://www.roblox.com/library/17404144108/Hub"
 local ColorTheme = Color3.fromRGB(0, 255, 145)
 
@@ -444,17 +444,17 @@ end
 spawn(function()
 if (v.HumanoidRootPart.Position - game.Players.LocalPlayer.Character.HumanoidRootPart.Position).Magnitude <= 150 then
 spawn(function()
-Melee()
+Melee(Dragon Talon)
 SY()
 SC()
 SZ()
 SX()
 wait(1)
-Sword()
+Sword(Cursed Dual Katana)
 SZ()
 SX()
 wait(1)
-Gun()
+Gun(Soul Guitar)
 SZ()
 SX()
 end)
