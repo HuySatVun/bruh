@@ -1,5 +1,4 @@
-
-local HubName = "OcCho Hub (Auto bounty)"
+local HubName = "OcCho Hub (Auto bounty/)"
 local LogoImage = "https://www.roblox.com/library/17404144108/Hub"
 local ColorTheme = Color3.fromRGB(0, 255, 145)
 
